@@ -1,4 +1,7 @@
-# Libft
+<h1 align="center">
+	<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming Language" width="100"height="100"></a> <br>
+	Libft
+</h1>
 
 <p align="center">
 	This project is about coding a C library.<br>
